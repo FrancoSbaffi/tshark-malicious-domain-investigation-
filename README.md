@@ -42,6 +42,7 @@ Full methodology and screenshots live in **[docs/report.md](docs/report.md)**.
 ---
 
 ## Repository Structure
+```bash
 tshark-malicious-domain-investigation/
 ├── README.md
 ├── docs/
@@ -50,7 +51,7 @@ tshark-malicious-domain-investigation/
 │ ├── directory-curiosity.pcap
 │ └── vlauto_sample.zip # password: infected
 └── .gitignore # prevents accidental upload of extracted binaries
-
+```
 
 ---
 
